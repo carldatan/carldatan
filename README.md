@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👨‍🎓 Studying Computer Science at Cavite State University - Naic
+- 📫 How to reach me: Email: carldaniel.datan@cvsu.edu.ph
 <!--
 **carldatan/carldatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
